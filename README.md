@@ -10,3 +10,4 @@ Steve Freeman, Nat Pryce
 2. [Test-Driven Development with Objects](02_tdd_with_objects.md);
 3. [An Introduction to the Tools](03_introduction_to_the_tools.md);
 4. [Kick-Starting the TDD Cycle](04_start_tdd_cycle.md);
+5. [Maintaining the TDD Cycle](05_maintaining_tdd_cycle.md);
