@@ -9,3 +9,4 @@ Steve Freeman, Nat Pryce
 1. [What Is the Point of Test-Driven Development?](01_point_of_tdd.md);
 2. [Test-Driven Development with Objects](02_tdd_with_objects.md);
 3. [An Introduction to the Tools](03_introduction_to_the_tools.md);
+4. [Kick-Starting the TDD Cycle](04_start_tdd_cycle.md);
