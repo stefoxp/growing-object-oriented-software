@@ -11,3 +11,4 @@ Steve Freeman, Nat Pryce
 3. [An Introduction to the Tools](03_introduction_to_the_tools.md);
 4. [Kick-Starting the TDD Cycle](04_start_tdd_cycle.md);
 5. [Maintaining the TDD Cycle](05_maintaining_tdd_cycle.md);
+6. [Object-Oriented Style](06_object_oriented_style.md);
