@@ -13,3 +13,4 @@ Steve Freeman, Nat Pryce
 5. [Maintaining the TDD Cycle](05_maintaining_tdd_cycle.md);
 6. [Object-Oriented Style](06_object_oriented_style.md);
 7. [Achieving Object-Oriented Design](07_object_oriented_design.md);
+8. [Building on Third-Party Code](08_third_party_code.md);
