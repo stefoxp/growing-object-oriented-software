@@ -3,6 +3,7 @@
         "cockburn",
         "hamcrest",
         "pluggable",
-        "refactorings"
+        "refactorings",
+        "succeds"
     ]
 }

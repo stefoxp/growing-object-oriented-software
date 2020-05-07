@@ -12,3 +12,4 @@ Steve Freeman, Nat Pryce
 4. [Kick-Starting the TDD Cycle](04_start_tdd_cycle.md);
 5. [Maintaining the TDD Cycle](05_maintaining_tdd_cycle.md);
 6. [Object-Oriented Style](06_object_oriented_style.md);
+7. [Achieving Object-Oriented Design](07_object_oriented_design.md);
