@@ -15,3 +15,4 @@ Steve Freeman, Nat Pryce
 7. [Achieving Object-Oriented Design](07_object_oriented_design.md);
 8. [Building on Third-Party Code](08_third_party_code.md);
 9. [Commissioning an Auction Sniper](09_auction_sniper_example.md);
+10. [The Walking Skeleton](10_walking_skeleton.md);
