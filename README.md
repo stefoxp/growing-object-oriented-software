@@ -16,3 +16,4 @@ Steve Freeman, Nat Pryce
 8. [Building on Third-Party Code](08_third_party_code.md);
 9. [Commissioning an Auction Sniper](09_auction_sniper_example.md);
 10. [The Walking Skeleton](10_walking_skeleton.md);
+11. [Passing the first test](11_passing_first_test.md);
