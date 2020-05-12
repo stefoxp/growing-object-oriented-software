@@ -1,10 +1,16 @@
 package test.endtoend.auctionsniper;
 
-import sun.applet.Main;
+import auctionsniper.Main;
+import static test.endtoend.auctionsniper.FakeAuctionServer.XMPP_HOSTNAME;
 
 public class ApplicationRunner {
     public static final String SNIPER_ID = "sniper";
     public static final String SNIPER_PASSWORD = "sniper";
+
+    // missing in book's code sample
+    private static final String STATUS_JOINING = "joining";
+    private static final String STATUS_LOST = "lost";
+
     private AuctionSniperDriver driver;
 
     public void startBiddingIn(final FakeAuctionServer auction) {
@@ -27,11 +33,11 @@ public class ApplicationRunner {
         // we turn down the timeout period for finding frames and components
         driver = new AuctionSniperDriver(1000);
         // we wait the status to change to Joining so we know that the application has attempted to connect
-        diver.showsSniperStatus(STATUS_JOINING);
+        driver.showsSniperStatus(STATUS_JOINING);
     }
     public void showsSniperHasLostAuction() {
         // we expect the Sniper to show a Lost status
-        driver.showSniperStatus(STATUS_LOST);
+        driver.showsSniperStatus(STATUS_LOST);
     }
     public void stop() {
         if (driver != null) {

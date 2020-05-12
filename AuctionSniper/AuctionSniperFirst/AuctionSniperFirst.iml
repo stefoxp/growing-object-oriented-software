@@ -17,6 +17,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="smack_3_1_0" level="project" />
     <orderEntry type="library" name="windowlicker" level="project" />
   </component>
 </module>

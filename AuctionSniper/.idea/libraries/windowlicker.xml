@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="windowlicker">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/windowlicker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AuctionSniperFirst/lib/windowlicker.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/lib/windowlicker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AuctionSniperFirst/lib/windowlicker.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -64,3 +64,21 @@ We set up an instance of **OpenFire** on our local host.
 
 We want all the developers to have their own environments so they don't interfere with each other when running their tests.
 
+## Failing and Passing the Test
+
+We have enough infrastructure in place to run the test and watch it fail.
+
+We start by writing a build script for *ant*.
+
+We'll skip over the details, the important point is that we always have a single command that reliably compiles, builds, deploys, and tests the application, and that we run it repeatedly.
+We only start coding once we have an automated build and test working.
+
+>build.xml
+
+### First user interface
+
+The test can't find a user interface component with the name "Auction Sniper Main".
+
+We need a top-level window for our application.
+
+>Main class and MainWindow class

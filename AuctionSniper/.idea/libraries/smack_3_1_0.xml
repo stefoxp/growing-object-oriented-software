@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="smack_3_1_0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AuctionSniperFirst/lib/smack_3_1_0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
