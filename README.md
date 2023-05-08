@@ -23,3 +23,19 @@ Contributions: Issues, comments and pull requests are welcome.
 9. [Commissioning an Auction Sniper](09_auction_sniper_example.md);
 10. [The Walking Skeleton](10_walking_skeleton.md);
 11. [Passing the first test](11_passing_first_test.md);
+12. [Getting Ready to Bid]
+13. [The Sniper Makes a Bid]
+14. [The Sniper Wins the Auction]
+15. [Towards a Real User Interface]
+16. [Sniping for Multiple Items]
+17. [Teasing Apart Main]
+18. [Filling In the Details]
+19. [Handling Failure]
+20. [Listening to the Tests]
+21. [Test Readability]
+22. [Constructing Complex Test Data]
+23. [Test Diagnostics]
+24. [Test Flexibility]
+25. [Testing Persistence]
+26. [Unit Testing and Threads]
+27. [Testing Asynchronous Code]
